@@ -1,19 +1,1 @@
-# Setup
 theme: jekyll-theme-cayman
-title: Project or Site name
-tagline: A responsive theme for your project on GitHub Pages
-baseurl: ""
-paginate: 1
-locale: "en"
-
-# About/contact
-author:
-  name: JactusTheCactus
-  url:        http://github.com/JactusTheCactus 
-
-# Gems
-gems:
-  - jekyll-paginate
-
-#Others
-markdown: kramdown
