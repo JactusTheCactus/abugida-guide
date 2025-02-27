@@ -6,3 +6,8 @@ title: Abugida
 - [Vowels](vowels.md)
 - [Symbols](symbols.md)
 - [Numbers `W.I.P.`](numbers.md)
+
+|aáeéioóuú|
+|:-:|
+|xhwypbcjtdþðfvkgszśźlmnŋr|
+|()/-?!,.'|
