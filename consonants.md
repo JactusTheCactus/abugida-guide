@@ -4,7 +4,7 @@ title: Consonants
 ---
 |Abugida|Romanized|IPA|
 |:-:|:-:|:-:|
-|x|||
+|x|[null]|/SILENT/|
 |h|h|/h/|
 |w|w|/w/|
 |y|y|/j/|
