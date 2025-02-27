@@ -14,5 +14,5 @@ title: Numbers
 |<ab>7</ab>|7|
 |<ab>8</ab>|8|
 |<ab>9</ab>|9|
-|<ab>A</ab>|A|
-|<ab>B</ab>|B|
+|<ab>A</ab>|10 (A)|
+|<ab>B</ab>|11 (B)|
