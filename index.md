@@ -2,10 +2,8 @@
 layout: default
 title: Abugida
 ---
-
-# Header
-- list
-
-|This|Is|
-|:-:|:-:|
-|A|Table|
+# Abugida
+- [Consonants](Consonants.md)
+- [Vowels](Vowels.md)
+- [Symbols](symbols.md)
+- [Numbers `W.I.P.`](numbers.md)
