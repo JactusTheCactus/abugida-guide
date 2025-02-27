@@ -1,4 +1,4 @@
 ---
 layout: default
-title: Grammatical Symbols
+title: Symbols
 ---
