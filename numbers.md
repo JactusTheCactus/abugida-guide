@@ -3,7 +3,7 @@ layout: default
 title: Numbers
 ---
 
-> `12,345` = `<ab>(543 21)</ab>`
+> 12,345 = <ab>(543 21)</ab>
 
 |Abugida|Number|
 |:-:|:-:|
