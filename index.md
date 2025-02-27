@@ -8,4 +8,4 @@ title: Abugida
 - [Numbers `W.I.P.`](numbers.md)
 
 - `xhwypbcjtdþðfvkgszśźlmnŋr`
-- `\ ()/-?!,.'`
+- `()/-?!,.'`
