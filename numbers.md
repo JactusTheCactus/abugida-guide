@@ -2,11 +2,9 @@
 layout: default
 title: Numbers
 ---
-
-> 12,345 = <ab>(543 21)</ab>
-
 |Abugida|Number|
 |:-:|:-:|
+|# <ab>(543 21)</ab>|# 12,345|
 |<ab>0</ab>|0|
 |<ab>1</ab>|1|
 |<ab>2</ab>|2|
