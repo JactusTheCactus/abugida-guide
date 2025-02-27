@@ -7,5 +7,5 @@ title: Abugida
 - [Symbols](symbols.md)
 - [Numbers `W.I.P.`](numbers.md)
 
-- xhwypbcjtdþðfvkgszśźlmnŋr
-- \ ()/-?!,.'
+- `xhwypbcjtdþðfvkgszśźlmnŋr`
+- `\ ()/-?!,.'`
