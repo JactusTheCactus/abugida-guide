@@ -2,7 +2,7 @@
 layout: default
 title: Abugida
 ---
-- [Consonants](Consonants.md)
-- [Vowels](Vowels.md)
+- [Consonants](consonants.md)
+- [Vowels](vowels.md)
 - [Symbols](symbols.md)
 - [Numbers `W.I.P.`](numbers.md)
