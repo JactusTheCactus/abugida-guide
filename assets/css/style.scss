@@ -3,4 +3,11 @@
 
 @import "{{ site.theme }}";
 
-// css styles here:
+@font-face {
+  font-family: Abugida;
+  src:local('abugida.ttf');
+}
+
+ab {
+  font-family: Abugida;
+}
