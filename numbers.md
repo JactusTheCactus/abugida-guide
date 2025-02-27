@@ -2,7 +2,7 @@
 layout: default
 title: Numbers
 ---
-|<ab>(543 21)</ab><br>Abugida|12,345<br>Number|
+|<ab>(098 765 432 1)</ab><br>Abugida|1,234,567,890<br>Number|
 |:-:|:-:|
 |<ab>0</ab>|0|
 |<ab>1</ab>|1|
