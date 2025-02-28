@@ -4,15 +4,15 @@ title: Numbers
 ---
 |<ab>((432 1))</ab><br>Abugida|1,234<br>Number|
 |:-:|:-:|
-|<ab>h</ab>|0|
-|<ab>w</ab>|1|
-|<ab>y</ab>|2|
-|<ab>p</ab>|3|
-|<ab>c</ab>|4|
-|<ab>t</ab>|5|
-|<ab>f</ab>|6|
-|<ab>k</ab>|7|
-|<ab>l</ab>|8|
-|<ab>m</ab>|9|
-|<ab>n</ab>|10 (A)|
-|<ab>r</ab>|11 (B)|
+|<ab>0</ab>|0|
+|<ab>h</ab>|1|
+|<ab>w</ab>|2|
+|<ab>y</ab>|3|
+|<ab>p</ab>|4|
+|<ab>c</ab>|5|
+|<ab>t</ab>|6|
+|<ab>f</ab>|7|
+|<ab>k</ab>|8|
+|<ab>l</ab>|9|
+|<ab>m</ab>|10 (A)|
+|<ab>n<br>r</ab>|11 (B)|
