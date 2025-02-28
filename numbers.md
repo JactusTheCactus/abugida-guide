@@ -3,7 +3,7 @@ layout: default
 title: Numbers
 ---
 
-# <ab>[0123456789AB]</ab>
+# <ab>[0][1][2][3][4][5][6][7][8][9][A][B]</ab>
 
 |<ab>[BA9 876 543 210]</ab><br>Abugida|012,345,678,9AB<br>Number|
 |:-:|:-:|
