@@ -5,7 +5,7 @@ title: Numbers
 
 # <ab>xhwypctþfksślmnŋr</ab>
 
-|<ab>(432 1)</ab><br>Abugida|1,234<br>Number|
+|<ab>((432 1))</ab><br>Abugida|1,234<br>Number|
 |:-:|:-:|
 |<ab>0</ab>|0|
 |<ab>1</ab>|1|
