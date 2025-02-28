@@ -2,6 +2,9 @@
 layout: default
 title: Numbers
 ---
+
+# 0123456789AB
+
 |<ab>((432 1))</ab><br>Abugida|1,234<br>Number|
 |:-:|:-:|
 |<ab>0</ab>|0|
