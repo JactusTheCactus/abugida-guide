@@ -5,7 +5,7 @@ title: Numbers
 
 # <ab>[0][1][2][3][4][5][6][7][8][9][A][B]</ab>
 
-|<ab>[012 345 678 9AB]</ab><br>Abugida|BA9,876,543,210<br>Number|
+|<ab>[012 345 678 9AB]</ab><br>Abugida|9,876,543,210<br>Number|
 |:-:|:-:|
 |<ab>[0]</ab>|0|
 |<ab>[h]</ab>|1|
