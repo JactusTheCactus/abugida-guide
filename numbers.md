@@ -15,4 +15,4 @@ title: Numbers
 |<ab>l</ab>|8|
 |<ab>m</ab>|9|
 |<ab>n</ab>|10 (A)|
-|<ab>ŋ<br>r</ab>|11 (B)|
+|<ab>r</ab>|11 (B)|
