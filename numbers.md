@@ -3,7 +3,7 @@ layout: default
 title: Numbers
 ---
 
-# <ab>xhwypctþfksślmnŋr</ab>
+# 4: <ab>hwypctþfksślmnŋr</ab>
 
 |<ab>((432 1))</ab><br>Abugida|1,234<br>Number|
 |:-:|:-:|
