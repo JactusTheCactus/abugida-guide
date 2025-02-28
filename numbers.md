@@ -18,4 +18,4 @@ title: Numbers
 |<ab>[k]</ab>|8|
 |<ab>[l]</ab>|9|
 |<ab>[m]</ab>|10 (A)|
-|<ab>[n]<br>[r]</ab>|11 (B)|
+|<ab>[n]</ab>|11 (B)|
