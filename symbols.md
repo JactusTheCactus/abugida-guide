@@ -13,4 +13,4 @@ title: Symbols
 |<ab>!</ab>|!|
 |<ab>,</ab>|,|
 |<ab>.</ab>|.|
-|<ab>x'</ab>|'|
+|<ab>x'</ab>|' (emphasis)|
