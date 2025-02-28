@@ -5,7 +5,7 @@ title: Numbers
 
 # <ab>0123456789AB</ab>
 
-|<ab>((432 1))</ab><br>Abugida|1,234<br>Number|
+|<ab>(BA9 876 543 210)</ab><br>Abugida|012,345,678,9AB<br>Number|
 |:-:|:-:|
 |<ab>0</ab>|0|
 |<ab>h</ab>|1|
