@@ -2,20 +2,17 @@
 layout: default
 title: Numbers
 ---
-
-# 4: <ab>hwypctþfksślmnŋr</ab>
-
 |<ab>((432 1))</ab><br>Abugida|1,234<br>Number|
 |:-:|:-:|
-|<ab>0</ab>|0|
-|<ab>1</ab>|1|
-|<ab>2</ab>|2|
-|<ab>3</ab>|3|
-|<ab>4</ab>|4|
-|<ab>5</ab>|5|
-|<ab>6</ab>|6|
-|<ab>7</ab>|7|
-|<ab>8</ab>|8|
-|<ab>9</ab>|9|
-|<ab>A</ab>|10 (A)|
-|<ab>B</ab>|11 (B)|
+|<ab>h</ab>|0|
+|<ab>w</ab>|1|
+|<ab>y</ab>|2|
+|<ab>p</ab>|3|
+|<ab>c</ab>|4|
+|<ab>t</ab>|5|
+|<ab>f</ab>|6|
+|<ab>k</ab>|7|
+|<ab>l</ab>|8|
+|<ab>m</ab>|9|
+|<ab>n</ab>|10 (A)|
+|<ab>ŋ<br>r</ab>|11 (B)|
