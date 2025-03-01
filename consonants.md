@@ -4,7 +4,7 @@ title: Consonants
 ---
 |Abugida|Romanized|[IPA]([https://www.ipachart.com/](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet_chart))|
 |:-:|:-:|:-:|
-|<ab>x</ab>|[null]|[silent]|
+|<ab>x</ab>|x|[silent]|
 |<ab>h</ab>|h|[/h/](https://en.wikipedia.org/wiki/Voiceless_glottal_fricative)|
 |<ab>w</ab>|w|[/w/](https://en.wikipedia.org/wiki/Voiced_labial%E2%80%93velar_approximant)|
 |<ab>y</ab>|y|[/j/](https://en.wikipedia.org/wiki/Voiced_palatal_approximant)|
