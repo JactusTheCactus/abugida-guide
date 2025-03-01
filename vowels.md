@@ -3,7 +3,7 @@ layout: default
 title: Vowels
 ---
 
-|Abugida|Romanized|[IPA](https://www.ipachart.com/](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet_chart)|
+|Abugida|Romanized|[IPA](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet_chart)|
 |:-:|:-:|:-:|
 |<ab>xa</ab>|a|[/a/](https://en.wikipedia.org/wiki/Open_front_unrounded_vowel)|
 |<ab>xá</ab>|á|[/e/](https://en.wikipedia.org/wiki/Close-mid_front_unrounded_vowel)|
