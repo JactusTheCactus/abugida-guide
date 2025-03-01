@@ -64,7 +64,7 @@ title: Vowels
         <td>
             <a href='https://en.wikipedia.org/wiki/Open_back_rounded_vowel'>/ɒ/</a>
             <audio controls>
-                <source src="sounds/vowels/Open_back_rounded_vowel.ogg" type="audio/mpeg">
+                <source src="sounds/vowels/PR-open_back_rounded_vowel.ogg" type="audio/mpeg">
             </audio>
         </td>
     </tr>
@@ -84,7 +84,7 @@ title: Vowels
         <td>
             <a href='https://en.wikipedia.org/wiki/Open-mid_back_unrounded_vowel'>/ʌ/</a>
             <audio controls>
-                <source src="sounds/vowels/Open-mid_back_unrounded_vowel.ogg" type="audio/mpeg">
+                <source src="sounds/vowels/PR-open-mid_back_unrounded_vowel2.ogg" type="audio/mpeg">
             </audio>
         </td>
     </tr>
