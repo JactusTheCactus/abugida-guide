@@ -3,7 +3,7 @@ layout: default
 title: Vowels
 ---
 
-|Abugida|Romanized|IPA|
+|Abugida|Romanized|[IPA](https://www.ipachart.com/)|
 |:-:|:-:|:-:|
 |<ab>xa</ab>|a|/a/|
 |<ab>xá</ab>|á|/e/|
