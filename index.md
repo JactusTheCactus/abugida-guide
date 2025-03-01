@@ -4,5 +4,6 @@ title: Abugida
 ---
 <a href='https://jactusthecactus.github.io/abugida-guide/consonants.html' class='button'>Consonants</a>
 <a href='https://jactusthecactus.github.io/abugida-guide/vowels.html' class='button'>Vowels</a>
+
 <a href='https://jactusthecactus.github.io/abugida-guide/symbols.html' class='button'>Symbols</a>
 <a href='https://jactusthecactus.github.io/abugida-guide/numbers.html' class='button'>Numbers</a>
