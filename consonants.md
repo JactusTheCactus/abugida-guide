@@ -2,7 +2,7 @@
 layout: default
 title: Consonants
 ---
-|Abugida|Romanized|IPA|
+|Abugida|Romanized|[IPA](https://www.ipachart.com/)|
 |:-:|:-:|:-:|
 |<ab>x</ab>|[null]|[silent]|
 |<ab>h</ab>|h|/h/|
