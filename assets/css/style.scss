@@ -25,4 +25,9 @@ ab {
   font-size: 20px;
   cursor: pointer;
   width: 50%;
+  transition-duration: 0.4s;
+}
+.button:hover {
+  background-color: #1c87c9ff;
+  color: #1c87c9cc;
 }
