@@ -3,7 +3,7 @@ layout: default
 title: Abugida
 ---
 
-<a href='consonants.md' class='btn'>Consonants</a>
-<a href='vowels.md' class='btn'>Vowels</a>
-<a href='symbols.md' class='btn'>Symbols</a>
-<a href='numbers.md' class='btn'>Numbers</a>
+<a href='consonants.md'><button>Consonants</button></a>
+<a href='vowels.md'><button>Vowels</button></a>
+<a href='symbols.md'><button>Symbols</button></a>
+<a href='numbers.md'><button>Numbers</button></a>
