@@ -11,7 +11,13 @@ title: Vowels
     <tr>
         <td><ab>xa</ab></td>
         <td>a</td>
-        <td><a href='https://en.wikipedia.org/wiki/Open_front_unrounded_vowel'>/a/</a></td>
+        <td>
+            <a href='https://en.wikipedia.org/wiki/Open_front_unrounded_vowel'>/a/</a>
+            <audio controls>
+                <source src="sounds/vowels/Open_front_unrounded_vowel.ogg" type="audio/mpeg">
+                Your browser does not support the audio element.
+            </audio>
+        </td>
     </tr>
     <tr>
         <td><ab>xá</ab></td>
